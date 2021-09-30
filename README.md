@@ -1,2 +1,2 @@
 # WebApps-Assignment-5 Starter Code
-Hosted at https://github.com/44-563-WebApps-F21/webapps-s21-assignment-5-VenkataPrabhakar.git
+Hosted at https://44-563-webapps-f21.github.io/webapps-s21-assignment-5-VenkataPrabhakar/animals.html
